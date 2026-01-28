@@ -1,0 +1,322 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.ClockIn-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/sources",
+      "importPath" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/ClockInApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Managers/TimerManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Models/Segment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/PopoverView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "ClockIn",
+      "moduleOutputPath" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/Modules/ClockIn.swiftmodule",
+      "objects" : [
+        "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/ClockInApp.swift.o",
+        "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/TimerManager.swift.o",
+        "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/Segment.swift.o",
+        "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/PopoverView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "ClockIn_main",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "clockin"
+      ],
+      "outputFileMapPath" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/ClockInApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/TimerManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/Segment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/PopoverView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/Modules/ClockIn.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/ClockInApp.swift",
+        "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Managers/TimerManager.swift",
+        "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Models/Segment.swift",
+        "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/PopoverView.swift"
+      ],
+      "tempsPath" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "ClockIn" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "ClockIn",
+      "-package-name",
+      "clockin",
+      "-c",
+      "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/ClockInApp.swift",
+      "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Managers/TimerManager.swift",
+      "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Models/Segment.swift",
+      "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/PopoverView.swift",
+      "-I",
+      "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "ClockIn_main",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "clockin",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "ClockIn" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn-entitlement.plist"
+    },
+    "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/ClockInApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Managers/TimerManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Models/Segment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/PopoverView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/sources"
+    },
+    "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/ClockInApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/PopoverView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/Segment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.build/TimerManager.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/ClockIn.product/Objects.LinkFileList"
+    },
+    "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

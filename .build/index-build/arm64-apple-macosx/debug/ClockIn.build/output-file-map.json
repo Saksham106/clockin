@@ -1,0 +1,82 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/master.swiftdeps"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/ClockInApp.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/ClockInApp.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/ClockInApp.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/ClockInApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/ClockInApp.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/ClockInApp.dia"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Managers/SegmentStore.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/SegmentStore.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/SegmentStore.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/SegmentStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/SegmentStore.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/SegmentStore.dia"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Managers/TimerManager.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/TimerManager.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/TimerManager.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/TimerManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/TimerManager.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/TimerManager.dia"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Models/Segment.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/Segment.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/Segment.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/Segment~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/Segment.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/Segment.dia"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Models/Tag.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/Tag.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/Tag.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/Tag~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/Tag.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/Tag.dia"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Models/TagItem.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/TagItem.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/TagItem.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/TagItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/TagItem.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/TagItem.dia"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/DashboardView.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/DashboardView.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/DashboardView.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/DashboardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/DashboardView.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/DashboardView.dia"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/EditSegmentSheet.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/EditSegmentSheet.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/EditSegmentSheet.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/EditSegmentSheet~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/EditSegmentSheet.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/EditSegmentSheet.dia"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/ManageTagsView.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/ManageTagsView.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/ManageTagsView.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/ManageTagsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/ManageTagsView.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/ManageTagsView.dia"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/PopoverView.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/PopoverView.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/PopoverView.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/PopoverView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/PopoverView.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/PopoverView.dia"
+  },
+  "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/QuickSwitchPanel.swift": {
+    "dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/QuickSwitchPanel.d",
+    "object": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/QuickSwitchPanel.swift.o",
+    "swiftmodule": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/QuickSwitchPanel~partial.swiftmodule",
+    "swift-dependencies": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/QuickSwitchPanel.swiftdeps",
+    "diagnostics": "/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/.build/index-build/arm64-apple-macosx/debug/ClockIn.build/QuickSwitchPanel.dia"
+  }
+}

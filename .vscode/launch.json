@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:ClockIn}",
+            "name": "Debug ClockIn",
+            "target": "ClockIn",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug ClockIn"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:ClockIn}",
+            "name": "Release ClockIn",
+            "target": "ClockIn",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release ClockIn"
+        }
+    ]
+}

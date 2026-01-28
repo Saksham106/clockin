@@ -1,0 +1,11 @@
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/ClockInApp.swift
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Managers/SegmentStore.swift
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Managers/TimerManager.swift
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Models/Segment.swift
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Models/Tag.swift
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Models/TagItem.swift
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/DashboardView.swift
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/EditSegmentSheet.swift
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/ManageTagsView.swift
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/PopoverView.swift
+/Users/sakshamgoel/Documents/ProjectsInternships/ClockIn/Sources/Views/QuickSwitchPanel.swift
